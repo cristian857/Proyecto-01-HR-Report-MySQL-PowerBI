@@ -26,7 +26,7 @@
  - A large number of employees work at the headquarters versus remotely.
  - The average length of employment for terminated employees is around 8 years.
  - The gender distribution across departments is fairly balanced but there are generally more male than female employees.
- - The Auditing department has the highest turnover rate followed by Legal. The least turn over rate are in the Research and development, Support and Legal departments.
+ - The Auditing department has the highest turnover rate followed by Legal. The least turn over rate are in the Services, Business Development and Marketing departments.
  - A large number of employees come from the state of Ohio.
  - The net change in employees has increased over the years.
 
